@@ -92,6 +92,6 @@
 </div>
 
 ###
-<img href="https://raw.githubusercontent.com/Fre/Fre/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/FreeSoulsDotBat/FreeSoulsDotBat/blob/output/github-contribution-grid-snake.svg)
 
 ###
