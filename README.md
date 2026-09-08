@@ -121,23 +121,6 @@
 
 ###
 
-## 📊 GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FreeSoulsDotBat&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FreeSoulsDotBat&layout=compact&langs_count=6&card_width=320&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FreeSoulsDotBat&theme=dracula&hide_border=false" height="150" alt="streak stats" />
-</div>
-
-###
-
-![Snake animation](https://github.com/FreeSoulsDotBat/FreeSoulsDotBat/blob/output/github-contribution-grid-snake.svg)
-
-###
-
 <p align="center">
   <i>“Autonomy is built one shipped project at a time.”</i>
 </p>
